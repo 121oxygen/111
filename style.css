@@ -1,0 +1,28 @@
+body {
+  background-color: #000000;
+   font-size: 1em;
+   color: #FFD700;
+  font-family: "Century Gothic";
+}
+
+h1 {
+  font-family: "Century Gothic";
+   color: #000000;
+   background-color: Gold;
+  text-align: center;
+}
+h2 {
+  font-family: "Century Gothic";
+   color: #000000;
+   background-color: Gold;
+}
+ol {
+  color: #FF69B4;
+  font-family:  Monotype Corsiva;
+}
+p {
+   letter-spacing: 0.2em;
+   word-spacing: 1em;
+   line-height: 1.5;
+   text-align: center;
+}
